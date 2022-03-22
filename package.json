@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Adrianna7395/Blockchain#readme",
   "devDependencies": {
+    "jest": "^27.5.1",
     "nodemon": "^2.0.15"
   },
   "dependencies": {
