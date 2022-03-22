@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Adrianna7395/Blockchain#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
   }
 }
